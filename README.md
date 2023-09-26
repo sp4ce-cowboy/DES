@@ -12,7 +12,7 @@ All events generate another event which, if not the same event, is added to an i
 
 This project was completed as part of the course requirement for [CS2030](https://nusmods.com/courses/CS2030/programming-methodology-ii). My first experience with proper OOP. As per the course specifications, the process of iterating until this final deliverable would have taken about 10KLoC, including the final deliverable which is around 2KLoC. 
 
-Every single line of code shown here was typed in Vim.
+Every single line of Java code here was written using Vim.
 
 In promoting effect-free programming and immutability, an immutable delegation of `ArrayList` called `ImList` is used throughout the codebase.
 
@@ -33,12 +33,13 @@ javac *.java
 3. Copy over the `test.in` files from the [tests](99_FinalProject/tests) folder.
 
 4. Run the [main](99_FinalProject/Main.java) class with text redirection:
+
 ```sh
 java Main < test1.in
 ```
 
 ### Docs
 
-(Almost) All classes and methods have [documentation](99_FinalProject/javadocs/allclasses-index.html), generated with javadocs. 
+(Almost) All classes and methods have [documentation](https://sp4ce-cowboy.github.io/DES/package-summary.html), generated with javadocs, hosted with GitHub pages.
 
-All compilation was done using JDK17.
+All code was written in and tested only on JDK17.
