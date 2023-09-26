@@ -40,3 +40,5 @@ java Main < test1.in
 ### Docs
 
 (Almost) All classes and methods have [documentation](99_FinalProject/javadocs/allclasses-index.html), generated with javadocs. 
+
+All compilation was done using JDK17.
