@@ -29,9 +29,12 @@ Nonetheless, for the determined:
 ```sh
 javac *.java
 ```
-3. Run the [main](99_FinalProject/Main.java) class with
+
+3. Copy over the `test.in` files from the [tests](99_FinalProject/tests) folder.
+
+4. Run the [main](99_FinalProject/Main.java) class with text redirection:
 ```sh
-java Main
+java Main < test1.in
 ```
 
 ### Docs
