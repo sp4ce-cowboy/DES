@@ -14,6 +14,8 @@ This project was completed as part of the course requirement for [CS2030](https:
 
 Every single line of code shown here was typed in Vim.
 
+In promoting effect-free programming and immutability, an immutable delegation of `ArrayList` called `ImList` is used throughout the codebase.
+
 ### Usage
 
 This repo is an attempt at ~showcasing~ archiving some of my old work. It wouldn't exactly make sense to "use" it.
