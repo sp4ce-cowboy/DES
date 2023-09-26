@@ -40,6 +40,6 @@ java Main < test1.in
 
 ### Docs
 
-(Almost) All classes and methods have [documentation](https://sp4ce-cowboy.github.io/DES/package-summary.html), generated with javadocs. 
+(Almost) All classes and methods have [documentation](https://sp4ce-cowboy.github.io/DES/package-summary.html), generated with javadocs, hosted with GitHub pages.
 
 All compilation was done using JDK17.
