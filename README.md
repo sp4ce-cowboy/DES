@@ -42,4 +42,4 @@ java Main < test1.in
 
 (Almost) All classes and methods have [documentation](https://sp4ce-cowboy.github.io/DES/package-summary.html), generated with javadocs, hosted with GitHub pages.
 
-All code was written in and tested only on JDK17.
+All code was written in and tested only with JDK17.
