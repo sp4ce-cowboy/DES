@@ -38,6 +38,8 @@ javac *.java
 java Main < test1.in
 ```
 
+5. Ponder about what the confusing output could mean.
+
 ### Docs
 
 (Almost) All classes and methods have [documentation](https://sp4ce-cowboy.github.io/DES/package-summary.html), generated with javadocs, hosted with GitHub pages.
