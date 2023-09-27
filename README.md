@@ -1,5 +1,5 @@
 # Discrete Event Simulator
-An archive of my discrete event simulator project for CS2030 taken in AY22/23 Semester 2 
+An archive of my discrete event simulator project for [CS2030 Programming Methodology II](https://nusmods.com/courses/CS2030/programming-methodology-ii) taken in NUS in AY22/23 Semester 2 
 
 ### A Brief Description
 A Discrete Event Simulator that simulates the sequential generation and execution of discrete events in the context of a shop that contains servers and self-checkout counters that serve customers that arrive at specified times and have unspecified service times. A customer that arrives will be served by either a server or a self-checkout counter if available. If the customer cannot be served immediately, they wait in a queue of specified length. If they are unable to wait, they leave the shop.
