@@ -10,7 +10,7 @@ All events generate another event which, if not the same event, is added to an i
 
 ### Some Notes
 
-This project was completed as part of the course requirement for [CS2030](https://nusmods.com/courses/CS2030/programming-methodology-ii). My first experience with proper OOP. As per the course specifications, the process of iterating until this final deliverable would have taken about 10KLoC, including the final deliverable which is around 2KLoC. 
+This project was completed as part of the course requirement for [CS2030](https://nusmods.com/courses/CS2030/programming-methodology-ii). A proper introduction to the OOP paradigm. As per the course specifications, the process of iterating until this final deliverable would have taken about 10KLoC, including the final deliverable which is around 2KLoC. 
 
 Every single line of Java code here was written using Vim.
 
