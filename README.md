@@ -14,7 +14,7 @@ This project was completed as part of the course requirement for [CS2030](https:
 
 Every single line of Java code here was written in Vim and Vim only.
 
-In promoting effect-free programming and immutability, an immutable delegation of the `ArrayList` class called `ImList` is used throughout the codebase.
+In promoting effect-free programming and immutability, an immutable delegation of the `ArrayList` class called `ImList` is used throughout the codebase. Only the main method outputs any information explicitly to the console, all other classes and methods return non-void values. Setter methods are banned and getter methods are discouraged. 
 
 ### Usage
 
