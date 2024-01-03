@@ -16,6 +16,16 @@ Every single line of Java code here was written in Vim and Vim only.
 
 In promoting effect-free programming and immutability, an immutable delegation of the `ArrayList` class called `ImList` is used throughout the codebase. Only the main method outputs any information explicitly to the console, all other classes and methods return non-void values. Setter methods are banned and getter methods are discouraged. 
 
+All code was written in and tested with JDK17 only.
+
+### JavaDocs
+
+Hosting documentation that I wrote was one of the principal motivations for uploading this project onto GitHub.  All classes and methods have JavaDocs documentation and are hosted on GitHub pages.
+
+They can be found [here](https://sp4ce-cowboy.github.io/discrete-event-simulator/), in JDK-API style.
+
+
+
 ### Usage
 
 This repo is an attempt at ~showcasing~ archiving some of my old work. It wouldn't exactly make sense to "use" it.
@@ -40,8 +50,4 @@ java Main < test1.in
 
 5. Ponder about what the confusing output could mean.
 
-### Docs
 
-(Almost) All classes and methods have [documentation](https://sp4ce-cowboy.github.io/DES/package-summary.html), generated with javadocs, hosted with GitHub pages.
-
-All code was written in and tested only with JDK17.
